@@ -1,0 +1,7 @@
+{
+  "command": "node",
+  "args": ["main.mjs"],
+  "restart_policy": "always",
+  "display_name": "Anti-Fall Model Indicator",
+  "description": "Antigravity插件——看看今天你的基米降智了吗"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "antigravity-anti-fall",
+  "version": "1.0.0",
+  "description": "Antigravity插件——看看今天你的基米降智了吗",
+  "author": "FlameTN7",
+  "license": "MIT",
+  "keywords": [
+    "antigravity",
+    "gemini",
+    "model-router",
+    "sidecar",
+    "anti-fall"
+  ]
+}
